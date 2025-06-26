@@ -28,5 +28,6 @@ City-wise revenue & order trends
 Clean, interactive visualizations
 DAX-based KPIs and time analysis
 
-
- 
+6. Screenshot / Demos
+Show what the dashboard looks like : 
+Example:![Dashboard preview](https://github.com/adi2026/Blinkit-Grocery-Data/blob/main/Screenshot%202025-06-26%20211157.png)
